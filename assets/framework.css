@@ -20,15 +20,15 @@
 }
 
 /*** debug ***/
-.dbg [class*="col-"] {
-    background-color: aquamarine; /* <-initial */
+/*.dbg [class*="col-"] {
+    background-color: aquamarine; 
     height: 200px;
     border: 1px solid black;
 }
 
 [class*="col-"] {
     float: left;
-}
+}*/
 
 /*** colonne ***/
 .col-1{

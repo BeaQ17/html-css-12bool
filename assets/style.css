@@ -1,0 +1,16 @@
+[class*="col-"] {
+    float: left;
+    text-align: center;
+    line-height: 200px;
+    background-color: aquamarine;
+    border: 1px solid black;
+}
+
+.nest{
+    background-color: cornflowerblue;
+    border: 1px solid white;
+}
+
+.six{
+    padding: 10px;
+}
